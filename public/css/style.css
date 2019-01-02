@@ -1,0 +1,40 @@
+#divForm {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.container-fluid {
+    position: relative;
+    height: 90vh;
+}
+
+#divFormLogin {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.form-control {
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 45px;
+}
+
+.title small {
+    color: #7f8c8d;
+    font-size: 20px;
+}
+
+.good span {
+    color: #b3b300;
+}
+.good input {
+    border: 1px solid #b3b300;
+}
+
+.good input:focus {
+    border: 1px solid #b3b300;
+}
